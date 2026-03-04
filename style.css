@@ -66,3 +66,14 @@ footer {
     background: #111827;
     margin-top: 40px;
 }
+.open {
+    color: #22c55e;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.closed {
+    color: #ef4444;
+    font-size: 24px;
+    font-weight: bold;
+}
