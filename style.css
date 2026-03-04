@@ -1,111 +1,106 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: #0a0f1f;
-    color: #e5e7eb;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0f0f14;
+    color: #e6e6e6;
 }
 
+/* NAVIGATION */
+
 nav {
-    background: #0f172a;
-    padding: 15px 40px;
+    background: #14141c;
+    padding: 12px 40px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 2px solid #38bdf8;
+    border-bottom: 2px solid #1f1f2b;
 }
 
 nav img {
-    height: 55px;
+    height: 45px;
 }
 
 nav a {
-    color: #38bdf8;
+    color: #c9d1ff;
     text-decoration: none;
-    margin-left: 30px;
+    margin-left: 25px;
     font-weight: bold;
-    transition: 0.3s;
 }
 
 nav a:hover {
-    color: #f472b6;
+    color: #7f5cff;
+}
+
+/* BANNER */
+
+.banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #111118;
 }
 
 .banner img {
-    width: 100%;
+    width: 50%;   /* 50% kleiner */
+    max-width: 900px;
     height: auto;
-    display: block;
+    margin: 30px 0;
 }
+
+/* CONTENT */
 
 section {
     max-width: 1000px;
-    margin: auto;
-    padding: 50px 20px;
+    margin: 0 auto;
+    padding: 40px 20px;
 }
 
-h1 {
-    font-size: 36px;
-    color: #38bdf8;
+/* ÜBERSCHRIFTEN NEUE FARBE */
+
+h1, h2, h3 {
+    color: #7f5cff;   /* Logo-angepasstes Violett */
 }
 
-h2 {
-    margin-top: 40px;
-    color: #f472b6;
-}
-
-.button {
-    display: inline-block;
-    padding: 14px 28px;
-    background: linear-gradient(90deg, #38bdf8, #f472b6);
-    color: black;
+.status-open {
+    color: #00c853;
     font-weight: bold;
-    text-decoration: none;
-    border-radius: 6px;
-    margin-top: 25px;
-    transition: 0.3s;
 }
 
-.button:hover {
+.status-closed {
+    color: #ff5252;
+    font-weight: bold;
+}
+
+.discord-button {
+    display: inline-block;
+    background: #5865F2;
+    padding: 12px 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.discord-button:hover {
     opacity: 0.85;
 }
 
-.status-box {
-    margin-top: 30px;
-    padding: 20px;
-    border-radius: 8px;
-    font-size: 20px;
-    font-weight: bold;
-}
+/* LEADERBOARD IMAGES */
 
-.open {
-    background: #052e16;
-    color: #22c55e;
-    border-left: 5px solid #22c55e;
-}
-
-.closed {
-    background: #2b0b0b;
-    color: #ef4444;
-    border-left: 5px solid #ef4444;
-}
-
-.leaderboard-card {
-    background: #111827;
-    padding: 20px;
-    border-radius: 8px;
-    margin-top: 30px;
-    border: 1px solid #38bdf8;
-}
-
-.leaderboard-card img {
+.leaderboard img {
     width: 100%;
-    border-radius: 6px;
-    margin-top: 15px;
+    max-width: 800px;
+    margin: 20px 0;
+    border-radius: 10px;
+    border: 2px solid #222233;
 }
 
 footer {
     text-align: center;
     padding: 20px;
-    background: #0f172a;
-    border-top: 2px solid #f472b6;
-    margin-top: 60px;
+    background: #14141c;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #888;
 }
