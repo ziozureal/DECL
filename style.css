@@ -57,8 +57,11 @@ section {
 
 /* ÜBERSCHRIFTEN NEUE FARBE */
 
+
 h1, h2, h3 {
-    color: #7f5cff;   /* Logo-angepasstes Violett */
+    background: linear-gradient(90deg, #3aa0ff, #ff4fd8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .status-open {
