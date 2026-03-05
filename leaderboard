@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>DECL Leaderboards</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html" class="logo">
+<img src="images/logo.webp" alt="DECL Logo">
+</a>
+
+<div class="nav-links">
+<a href="regeln.html">Regeln</a>
+<a href="richtlinien.html">Richtlinien</a>
+<a href="leaderboards.html">Leaderboards</a>
+</div>
+</nav>
+
+<section class="content">
+
+<h1>Bisher gespielte Leaderboards</h1>
+
+<p>Hier werden die Leaderboards vergangener Phasen der DECL ausgestellt.</p>
+
+<div class="leaderboard-gallery">
+
+<div class="leaderboard-item">
+<h3>Leaderboard Phase 1</h3>
+<img src="leaderboards/phase1.png" alt="Leaderboard Phase 1">
+</div>
+
+<div class="leaderboard-item">
+<h3>Leaderboard Phase 2</h3>
+<img src="leaderboards/phase2.png" alt="Leaderboard Phase 2">
+</div>
+
+<div class="leaderboard-item">
+<h3>Leaderboard Phase 3</h3>
+<img src="leaderboards/phase3.png" alt="Leaderboard Phase 3">
+</div>
+
+</div>
+
+</section>
+
+<footer>
+© DECL Liga
+</footer>
+
+</body>
+</html>
