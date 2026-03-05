@@ -114,6 +114,58 @@ width:100%;
 border-radius:8px;
 }
 
+.hero{
+text-align:center;
+padding-top:120px;
+padding-bottom:120px;
+background:rgba(0,0,0,0.55);
+}
+
+.hero-logo{
+width:180px;
+margin-bottom:20px;
+}
+
+.hero h1{
+font-size:42px;
+margin-bottom:20px;
+
+background:linear-gradient(90deg,#00eaff,#ff3cff);
+-webkit-background-clip:text;
+color:transparent;
+}
+
+.hero p{
+max-width:800px;
+margin:auto;
+font-size:18px;
+margin-bottom:30px;
+}
+
+.discord-button{
+display:inline-block;
+padding:14px 28px;
+background:linear-gradient(90deg,#00eaff,#ff3cff);
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+}
+
+.server-status{
+margin-top:25px;
+font-weight:bold;
+font-size:18px;
+}
+
+.server-status.open{
+color:#00ff9c;
+}
+
+.server-status.closed{
+color:#ff4b4b;
+}
+
 /* FOOTER */
 
 footer {
