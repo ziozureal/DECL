@@ -89,6 +89,25 @@ section {
     max-width: 900px;
 }
 
+.leaderboard-gallery{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+gap:30px;
+margin-top:40px;
+}
+
+.leaderboard-item{
+background:#0d0d0d;
+padding:15px;
+border-radius:10px;
+text-align:center;
+}
+
+.leaderboard-item img{
+width:100%;
+border-radius:8px;
+}
+
 /* FOOTER */
 
 footer {
