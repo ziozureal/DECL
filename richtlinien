@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>DECL – Richtlinien</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">
+<img src="images/logo.webp" alt="DECL Logo">
+</a>
+<div>
+<a href="regeln.html">Regeln</a>
+<a href="richtlinien.html">Richtlinien</a>
+</div>
+</nav>
+
+<section>
+
+<h1>Richtlinien:</h1>
+
+<h2>1. Allgemeines</h2>
+<p>
+In gegebenen Fällen behält sich der Ausrichter der Liga das Recht vor, jegliche Regeln auch während einer laufenden Saison zu ändern, um i.d.R. 
+den Spielverlauf zu verbessern oder weil es aus anderen Gründen notwendig ist. 
+Regeländerungen mit umfassender Tragweite werden auf unserem Discord in den Ankündigungen rechtzeitig vor deren Inkrafttreten publiziert.
+</p>
+
+<h2>Anmeldung in der DECL</h2>
+
+<h3>2.1</h3>
+<p>
+Bei der Anmeldung zur DECL über den Discord stimmt man automatisch den Verhaltens- und Spielregeln der Liga zu.
+</p>
+
+<h3>2.2</h3>
+<p>
+Des Weiteren bestätigt man mit den Angaben seinen Mainaccount angemeldet zu haben und nur über diesen an der Liga teilzunehmen. 2. Accounts werden 
+nur geduldet, wenn der Main Account nicht mehr zur Verfügung steht und dies persönlich mit der Leitung kommuniziert wurde. 
+Sollte dies nicht eingehalten werden, führt dies direkt zur Sperre jeglicher Teilnahme.
+</p>
+
+<h2>3. Fragen</h2>
+<p>
+Bei Fragen oder Problemen wendet man sich bitte an die im Discord ausgewiesenen Mods, Admins oder schreibt es im Support Channel.
+</p>
+
+<h2>4. Verhaltenskodex</h2>
+
+<h3>4.1</h3>
+<p>
+Es gilt generell jedem mit Respekt zu begegnen.
+</p>
+
+<h3>4.2</h3>
+<p>
+Es ist selbstredend, dass Beleidigungen, Mobbing, Diskriminierung und dergleichen unerwünscht sind und entsprechend bestraft werden. Hierzu zählt auch 
+unterschwelliges Verhalten mit selbiger Deutung. Generell werden wir uns aber nur einmischen, wenn es im Bereich der Ligaspiele oder auf dem Ligadiscord 
+der Fall ist. In besonderen Fällen, vor allem bei Mobbing, behalten wir uns aber vor auch in anderen Fällen Maßnahmen zu ergreifen.
+</p>
+
+<h3>4.3</h3>
+<p>
+Für alle die gerne coachen und backseaten. Dies ist keine Liga in der es darum geht jemandem was beizubringen, sondern eine in der jeder Spaß haben soll. 
+Es ist also zu unterlassen jemandem Tipps/Ratschläge zu geben, wenn dies nicht ausdrücklich gewünscht ist, also fragt die Person vorher und ein nein 
+sollte reichen, um es zu akzeptieren.
+</p>
+
+<h3>4.4</h3>
+<p>
+Während der Spiele ist leichter Trashtalk und Tippen erlaubt, solange es sich im Rahmen hält. Gleichzeitig wird aber auch darauf hingewiesen, sich evtl. 
+vorher zu überlegen bei wem dies genutzt wird und ob es eine negative Wirkung über das Spiel hinaus haben könnte. Wir hoffen, dass ihr euch hier verantwortlich 
+genug verhaltet, dass wir nicht eingreifen müssen, behalten uns das aber grundsätzlich vor.
+</p>
+
+<h3>4.5</h3>
+<p>
+Es wird immer mal wieder vorkommen, das sich Personen untereinander nicht grün sind. Sollte dies also der Fall sein, geht euch außerhalb der Spiele bitte 
+einfach aus dem Weg und verhaltet euch während der Spiele professionell.
+</p>
+
+<h3>4.6</h3>
+<p>
+Während der Spiele haben sich nur die Spieler des entsprechenden Teams in den entsprechenden Sprachkanälen des Discords aufzuhalten. Ein mutwilliges Stören 
+dieser wird entsprechend geahndet.
+</p>
+
+<h2>5. Betrügen</h2>
+<p>
+Betrügen/Cheaten führt automatisch zum lebenslangen Ausschluss aus der Liga.
+</p>
+
+<h2>6. Streaming</h2>
+<p>
+Es ist grundsätzlich erlaubt und gern gesehen, wenn die Spiele gestreamt werden. Um Missverständnisse zu vermeiden, schreibt hierfür bitte [Live] hinter eurem 
+Namen im Discord. Des Weiteren wird darum gebeten, im Streamtitel „DECL“ zu erwähnen.
+Für etwaige Vorkommnisse wäre es gut wenn, das VOD öffentlich zugänglich ist.
+</p>
+
+</section>
+
+<footer>
+© 2026 DECL – Deutschsprachige Dota 2 Inhouse Liga
+</footer>
+
+</body>
+</html>
