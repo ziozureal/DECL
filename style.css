@@ -10,7 +10,14 @@ background-position: center top;
 background-attachment:fixed;
 }
 
-.navbar{
+header{
+padding:20px;
+}
+
+nav{
+display:flex;
+gap:30px;
+justify-content:center;
 background:transparent;
 }
 
