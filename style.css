@@ -10,7 +10,9 @@ background-position: center top;
 background-attachment:fixed;
 }
 
-
+.navbar{
+background:transparent;
+}
 
 nav a{
 color:white;
