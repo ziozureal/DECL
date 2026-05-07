@@ -72,3 +72,14 @@ width:100%;
 margin-top:20px;
 border-radius:10px;
 }
+
+.footer-image {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.footer-image img {
+    width: 300px;
+    max-width: 90%;
+    height: auto;
+}
